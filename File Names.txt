@@ -1,0 +1,59 @@
+    File Names
+    <BACKGROUNDS>
+    "BLACK": "09MB_NFT-BKG-BLK.png",
+    "GREY": "09MB_NFT-BKG-GREY.png",
+    "GREEN": "09MB_NFT-BKG-MNTG.png",
+    "MARION": "09MB_NFT-BKG-MRNG.png",
+    "YELLOW": "09MB_NFT-BKG-YLWG.png",
+    "MAGENTA": "08MB_NFT-BKG-MGNT.png",
+    "CONFETTI MIST": "09MB_NFT-BKG-CNFTG.png",
+    "NEWSPRINT": "09MB_NFT-BKG-NWSP.png",
+    "PINK": "09MB_NFT-BKG-PINK.png",
+    "BLUE": "09MB_NFT-BKG-PRCH.png",
+    "PURPLE CRACK": "09MB_NFT-BKG-BKBL.png",
+    "3D BLUE": "01MB_NFT-BKG-3DBLU.png"
+
+    <BEAR BODIES>
+    "BLUEBERRY": "15MB_NFT-BLUE_BEAR.png",
+    "KELLY": "15MB_NFT-GREEN_BEAR.png",
+    "PURPLE": "15MB_NFT-PRPL_BEAR.png",
+    "RED": "15MB_NFT-RED_BEAR.png",
+    "BROWN": "15MB_NFT-BRWN_BEAR.png",
+    "GREY": "15MB_NFT-GREY_BEAR.png",
+    "SKETCH": "10MB_NFT-SKTCH_BEAR.png"
+
+    <WEARING>
+    "NAKED": "35MB_NFT-PFP_NAKED.png",
+    "POWER TIE": "08MB_NFT-PFP_POWER.png",
+    "PARTY TIE": "08MB_NFT-PFP_PARTY.png",
+    "NEWAVE SKINNY TIE": "08MB_NFT-PFP_NEWAV.png",
+    "CLOWN BOW TIE": "08MB_NFT-PFP_CLOWN.png",
+    "CHIPPY": "08MB_NFT-PFP_CHPNDL.png",
+    "BLACK TIE": "08MB_NFT-PFP_BLKTIE.png",
+    "PICNIC TIE": "05MB_NFT-PFP_PICNIC.png",
+    "CIRCUS SCARF": "05MB_NFT-PFP_LADY.png",
+    "BUDDY BOW TIE": "05MB_NFT-PFP_BUDDY.png",
+    "DANCING": "02MB_NFT-PFP_DANCE.png"
+
+    <MOODS>
+    "AHHH": "MB_NFT-PFP_AHHH.png",
+    "BLBL": "MB_NFT-PFP_BLBL.png",
+    "BLSS": "MB_NFT-PFP_BLSS.png",
+    "DOHH": "MB_NFT-PFP_DOHH.png",
+    "GRRR": "MB_NFT-PFP_GRRR.png",
+    "MMMM": "MB_NFT-PFP_MMMM.png",
+    "OHHH": "MB_NFT-PFP_OHHH.png",
+    "UHHH": "MB_NFT-PFP_UHHH.png",
+    "WHOA": "MB_NFT-PFP_WHOA.png",
+    "ZZZZ": "MB_NFT-PFP_ZZZZ.png",
+    "BLAH": "MB_NFT-PFP_BLAH.png",
+    "GLAH": "MB_NFT-PFP_GLAH.png",
+    "HMPH": "MB_NFT-PFP_HMPH.png",
+    "NRVS": "MB_NFT-PFP_NRVS.png"
+
+    <ATMPSPHERE>
+    "CLEAR": "60MB_NFT-PFP_CLEAR.png",
+    "BUBBLES": "10MB_NFT-PFP_BUBBLES.png",
+    "CONFETTI": "10MB_NFT-PFP_CNFT.png",
+    "HONEY": "10MB_NFT-PFP_HONEY.png",
+    "RAIN": "10MB_NFT-PFP_RAIN.png
